@@ -1,6 +1,6 @@
 - 👋 Hi, I’m mohamed - @mohamed25100
 - 👀 I’m interested in ... php , js ,css , sql
-- 🌱 I’m currently learning ...  python
+- 🌱 I’m currently learning ...  Java
 - 💞️ I’m looking to collaborate on ... dev application
 - 📫 How to reach me ... mboucherba31@gmail.com
 
